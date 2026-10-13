@@ -11,11 +11,7 @@ This deck outlines an internal workforce operations plan for the fictional midsi
 
 ## 📂 Repository Structure
 
-An overview of where files are located so collaborators can easily find what they need.
-
-* `/exports/` - Finalized, ready-to-present files (PDFs, locked PPTX).
-
-* `/drafts/` - Documents used to prepare the finalized report and presentation
+The finalized report and presentation are uploaded
 
 ## 👤 Project Leads
 
